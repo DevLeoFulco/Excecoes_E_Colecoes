@@ -1,0 +1,14 @@
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Exceções e Coleções\bin\Debug\net8.0\Exceções e Coleções.exe
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Exceções e Coleções\bin\Debug\net8.0\Exceções e Coleções.deps.json
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Exceções e Coleções\bin\Debug\net8.0\Exceções e Coleções.runtimeconfig.json
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Exceções e Coleções\bin\Debug\net8.0\Exceções e Coleções.dll
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Exceções e Coleções\bin\Debug\net8.0\Exceções e Coleções.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Exceções e Coleções\obj\Debug\net8.0\Exceções e Coleções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Exceções e Coleções\obj\Debug\net8.0\Exceções e Coleções.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Exceções e Coleções\obj\Debug\net8.0\Exceções e Coleções.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Exceções e Coleções\obj\Debug\net8.0\Exceções e Coleções.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Exceções e Coleções\obj\Debug\net8.0\Exceções e Coleções.dll
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Exceções e Coleções\obj\Debug\net8.0\refint\Exceções e Coleções.dll
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Exceções e Coleções\obj\Debug\net8.0\Exceções e Coleções.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Exceções e Coleções\obj\Debug\net8.0\Exceções e Coleções.genruntimeconfig.cache
+C:\Users\leand\OneDrive\Área de Trabalho\ESTUDOS\C#\Exceções e Coleções\obj\Debug\net8.0\ref\Exceções e Coleções.dll
